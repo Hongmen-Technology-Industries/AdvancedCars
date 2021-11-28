@@ -1,0 +1,16 @@
+{
+"name": "Porsche991_01_Carmine_Red",
+"tags": "car Porsche 911 991",
+"model": {
+	"modelFile": "991.mqo",
+	"textures": [["mat1",  "textures/car/991/991_R.png","AlphaBlend"]]},
+
+"buttonTexture": "textures/car/991/button_991_R.png",
+"machineType": "Light",
+
+"brightness": [0, 0],
+"doCulling": false,
+"smoothing": true,
+"accuracy": "MEDIUM",
+"rotateByMetadata": false
+}
